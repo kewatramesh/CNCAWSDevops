@@ -41,6 +41,6 @@ artifacts:
 reports:
       test-report-group: #Junit reports
         files:
-          - 'TEST-boris.maths.MathsApplicationTests.xml'
+          - 'TEST-awsdevops.example.awsdevopsdemo.AwsdevopsdemoApplicationTests.xml'
         #discard-paths: false #do not remove file paths from test result files
         base-directory: './build/test-results/test'
